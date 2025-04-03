@@ -156,6 +156,7 @@ table {
   border-collapse: collapse;
   width: 60%;
   margin-top: 10px;
+  float: right;
 }
 th, td {
   border: 1px solid black;
